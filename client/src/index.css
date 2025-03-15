@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("C:\Users\Abir\Desktop\CHEKHOOK\client\src\cinema-event-background-vector-seamless-pattern-flat-movie-background-cinema-attributes-film-strip-camera-reel-masks-popcorn-129374847.jpg");
+  background-size: cover;  /* Ajuste l'image pour couvrir tout l'écran */
+  background-position: center; /* Centrer l'image */
+  width: 100;
+  
+  margin: 0;
+  background-repeat:no-repeat;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
